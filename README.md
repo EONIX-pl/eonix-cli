@@ -41,7 +41,7 @@ Automated performance advisors and asset optimization built into the shell.
 
 * **`eonix tune`**
     * **Description:** A completely safe, **read-only** performance and configuration advisor. Scans your application directory (WordPress, Next.js, PrestaShop and other) to detect configuration flaws, debug mode leaks, or missing caches.
-* **`eonix tune optimize-images`**
+* **`eonix tune optimize-images [folder]`**
     * **Description:** Scans image directories to losslessly compress JPG/PNG files and dynamically generates modern, lightweight `.webp` variants to skyrocket your Google PageSpeed scores.
 
 ### Logs And Security
